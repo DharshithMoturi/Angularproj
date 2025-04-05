@@ -5,7 +5,7 @@ A full-stack application for managing grocery shopping lists, built with Angular
 ## Project Structure
 
 - `smart-grocery-app/`: Angular frontend
-- `grocery-backend/`: Node.js backend with Express and SQLite
+- `grocery-backend/`: .net backend with Express and SQLite
 
 ## Backend Setup
 
